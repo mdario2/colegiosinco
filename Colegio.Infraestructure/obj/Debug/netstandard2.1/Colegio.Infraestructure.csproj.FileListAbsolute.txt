@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\bin\Debug\netstandard2.1\Colegio.Infraestructure.deps.json
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\bin\Debug\netstandard2.1\Colegio.Infraestructure.dll
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\bin\Debug\netstandard2.1\Colegio.Infraestructure.pdb
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\bin\Debug\netstandard2.1\Colegio.Core.dll
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\bin\Debug\netstandard2.1\Colegio.Core.pdb
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.dll
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Infraestructure\obj\Debug\netstandard2.1\Colegio.Infraestructure.pdb

@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\bin\Debug\netstandard2.1\Colegio.Core.deps.json
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\bin\Debug\netstandard2.1\Colegio.Core.dll
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\bin\Debug\netstandard2.1\Colegio.Core.pdb
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\obj\Debug\netstandard2.1\Colegio.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\obj\Debug\netstandard2.1\Colegio.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\obj\Debug\netstandard2.1\Colegio.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\obj\Debug\netstandard2.1\Colegio.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\obj\Debug\netstandard2.1\Colegio.Core.dll
+C:\Users\ASUS\source\repos\ColegioSinco\Colegio.Core\obj\Debug\netstandard2.1\Colegio.Core.pdb
