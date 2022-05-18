@@ -8,10 +8,10 @@ namespace Colegio.Core.Interfaces
 {
     public interface IMateriaRepository
     {
-        Task<IEnumerable<Materia>> Get();
+        Task<Materia> GetMateria(int id);
 
         Task Insert(Materia materia);
 
-        Task<bool> AsignarMateriaAProfesor(int id, Profesor profe);
+        Task<bool> AsignarMateriaAProfesor(Materia m, Profesor profe);
     }
 }

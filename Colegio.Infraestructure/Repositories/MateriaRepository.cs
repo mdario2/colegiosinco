@@ -17,10 +17,21 @@ namespace Colegio.Infraestructure.Repositories
         {
             _context = context;
         }
-        public async Task<IEnumerable<Materia>> Get()
+
+        public async Task<bool> AsignarMateriaAProfesor(Materia m,  Profesor profe)
         {
-            var materias = await _context.Materia.ToListAsync();
-            return materias;
+            var currentMateria = await GetMateria(m.IdMateria);
+            currentMateria.IdPersona = profe.IdPersona;
+            int rows = await _context.SaveChangesAsync();
+            return rows > 0;
+
+        }
+       
+
+        public async Task<Materia> GetMateria(int id)
+        {
+            var materia = await _context.Materia.FirstOrDefaultAsync(x => x.IdMateria == id);
+            return materia;
         }
 
         public async Task Insert(Materia materia)

@@ -32,5 +32,16 @@ namespace Colegio.Api.Controllers
             return Ok(materia);
         }
 
+        [HttpPut]
+        public async Task<IActionResult> AsignarMateriaAProfe(MateriaDto materiadto, ProfesorDto profeDto)
+        {
+            var profe = _mapper.Map<Profesor>(profeDto);
+            var materia = _mapper.Map<Materia>(materiadto);
+            materia.IdPersona = profe.IdPersona;
+
+            await _materiaRepository.AsignarMateriaAProfesor(materia,profe);
+            return Ok(materia);
+        }
+
     }
 }
